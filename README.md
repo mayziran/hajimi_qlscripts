@@ -1,13 +1,13 @@
 # 哈基米青龙脚本库 🐱
 
-个人青龙面板脚本库
+自用青龙面板脚本库
 
 ## 安装 🐾
 
 青龙面板订阅管理 → 创建订阅 → 粘贴：
 
 ```
-ql repo https://github.com/mayziran/hajimi_qlscripts.git "" "backup"
+ql repo https://github.com/mayziran/hajimi_qlscripts.git "" "backup" "" "main"
 ```
 
 ## 免责声明 🐾
